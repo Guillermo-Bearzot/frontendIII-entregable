@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Pages y Code
-Git pages: https://github.com/Guillermo-Bearzot/frontendIII-entregable.git
+Git pages: https://guillermo-bearzot.github.io/frontendIII-entregable/
 Codesandbox: https://codesandbox.io/s/github/Guillermo-Bearzot/frontendIII-entregable 
 
 ## Available Scripts
